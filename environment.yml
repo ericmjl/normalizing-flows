@@ -16,3 +16,5 @@ dependencies:
 - seaborn
 - pytest
 - autograd
+- pip:
+  - git+https://github.com/ericmjl/fundl
